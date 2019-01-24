@@ -70,7 +70,7 @@ Recursion Experiments
 
 \- \- \-
 
-### [WEEK 04: CLOCKS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week04_Clocks.md)  
+### [WEEK 04: TIME](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week04_Clocks.md)  
 **In class**  
 Conditionals, strings, fonts and text, exporting video files
 
@@ -121,6 +121,11 @@ Begin Bot project, create a Twitter account
 
 \- \- \-
 
+### MARCH 17-24
+Spring break – no class!
+
+\- \- \-
+
 ### WEEK 09: LANGUAGE 2  
 **In class**  
 Installing Python modules, creating an app on Twitter, OAuth, posting to Twitter automatically, bot sever demo
@@ -146,28 +151,40 @@ Historical Code Explorations
 **In class**  
 Simulating motion and behavior, object-oriented programming, ArrayLists
 
+**Mini project** 
+TBA
+
 **Homework**  
 Write [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) proposal, begin work on rough prototype  
 
 \- \- \-
 
-### NOV 22–26  
-Thanksgiving break – no class!
+### WEEK 12: INTERACTIVITY 3
 
-\- \- \-
+**In class**  
+More simulation and interactivity
 
-### WEEK 12: NO CLASS (JEFF OUT OF TOWN)
+**Mini project** 
+Finish mini project in class
 
 **Homework**  
-Continue working on [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md)
+Complete rough prototype for [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md)
 
 \- \- \-
 
 ### WEEK 13: WORK DAY
 **In class**  
 Work on Final Projects, get help as needed
+Demo of work in progress
 
+**Homework**  
+Continue working on [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) and documentation
+
+\- \- \-
+
+### WEEK 14: WORK DAY
 **In class**  
+Work on Final Projects, get help as needed
 Demo of work in progress
 
 **Homework**  
@@ -176,5 +193,5 @@ Finish [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob
 \- \- \-
 
 ### EXAM PERIOD: THURSDAY, DECEMBER 21  
-Final project files and documentation due online – **no class meeting** (bye!)
+Final project files and documentation due online – **in class crit and goodbye** (bye!)
 
