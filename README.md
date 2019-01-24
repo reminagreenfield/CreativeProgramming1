@@ -1,11 +1,11 @@
 CREATIVE PROGRAMMING 1
 ====
 
-    Instructor      Prof. Jeff Thompson
-    Email           jeff.thompson@stevens.edu
-    Office/hours    Morton 208, Tues/Thurs 2.30–3.30pm
+    Instructor      Remina Greenfield
+    Email           remina.greenfield@stevens.edu
+    Office/hours    By appointment
 
-    Meeting times   Thursdays 9.00am–12.50pm
+    Meeting times   Thursdays 1.00pm–4.50pm
     Location        Visual Arts & Technology Lab
 
 In this class, we will explore the computer as a tool capable of powerful creative possibility, not via pre-built software, but instead by writing code ourselves. We will look at the basic structures and affordances of code as inspiration for making artworks, as a tool capable of creating things that would be impossible by hand, and as a fallible system that encapsulates our cultural and personal biases.
