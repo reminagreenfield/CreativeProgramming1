@@ -3,7 +3,7 @@
 CLOCKS
 ====
 
-### DUE: THURSDAY, OCTOBER 5
+### DUE: THURSDAY, FEBRUARY 28
 
 This week, we've seen some basic ways of turning a static sketch into an animated one, and in the coming weeks we'll build on this even more, going from animated to interactive. [John Maeda](https://en.wikipedia.org/wiki/John_Maeda) – an artist, designer, educator, and creator of [Design By Numbers](https://en.wikipedia.org/wiki/Design_By_Numbers) (which led to Processing) – made a series of experimental clocks (seen above) as a way of thinking about designing with code. Your assignment, inspired by Maeda's work and the other examples we looked at, is to create your own visual, non-traditional clocks using code.
 
