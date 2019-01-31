@@ -3,7 +3,7 @@
 RECURSION EXPERIMENTS
 ====
 
-### DUE: THURSDAY, FEB 21
+### DUE: THURSDAY, FEBRUARY 21
 
 >"To understand recursion, one must first understand recursion." – Stephen Hawking
 
@@ -53,4 +53,3 @@ Your project will be graded with the following rubric:
 **30%:** Project shows creativity, attention to visual quality (composition, color, etc)  
 **30%:** Project shows clear use of technical material covered in class  
 **30%:** Project shows investigation and exploration of assignment topic  
-

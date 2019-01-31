@@ -3,7 +3,7 @@
 LANGUAGE
 ====
 
-### DUE: THURSDAY, NOVEMBER 2/9  
+### DUE: THURSDAY, MARCH 28
 
 Bots create and post text and images, interact with people, and do other creative work, often autonomously, repetitively, and on social media platforms like Twitter. The idea of bots is relatively new (even its antecedent *robot* [only dates to the 1920s](http://www.npr.org/2011/04/22/135634400/science-diction-the-origin-of-the-word-robot)) and while there is a lot of discussion about bots (as well as related topics like chat, AI, etc) in tech right now, there are many people that build bots for artistic and critical purposes.
 
@@ -123,4 +123,3 @@ Your project will be graded with the following rubric:
 **30%:** Project shows creativity, attention to visual quality (composition, color, etc)  
 **30%:** Project shows clear use of technical material covered in class  
 **30%:** Project shows investigation and exploration of assignment topic  
-

@@ -3,7 +3,7 @@
 RANDOMNESS
 ====
 
-### DUE: THURSDAY, OCT 19/26
+### DUE: THURSDAY, MARCH 14/21
 
 > "The computer is a unique device for the arts since it can function soley as an obedient tool with vast capabilities for controlling complicated and involved processes, but then again, full exploitation of its unique talents for controlled randomness and detailed algorithms could result in an entirely new machine – a creative artistic medium." – A. Michael Noll (1970)
 
@@ -22,7 +22,7 @@ Try adding these elements to your sketch:
 * Try using `randomSeed()` and the mouse coordinates to make an interactive generator.
 
 ### FOR THURSDAY, OCTOBER 19  
-For next week, you should create a series of five or more different exploratory code studies thinking about randomness. These should show a range of ideas, and explore potential directions for the project. These should be the same size/format as the final sketch (`1152x720 pixels`), exported as PDFs, and printed on a laser printer (either in the Lab or at Kinkos, etc). Bring your prints to class next week – remember that presentation counts, so keep your prints crisp and clean. 
+For next week, you should create a series of five or more different exploratory code studies thinking about randomness. These should show a range of ideas, and explore potential directions for the project. These should be the same size/format as the final sketch (`1152x720 pixels`), exported as PDFs, and printed on a laser printer (either in the Lab or at Kinkos, etc). Bring your prints to class next week – remember that presentation counts, so keep your prints crisp and clean.
 
 * Sketches should be `1152x720 pixels` (that's `16x10" * 72 pixels per inch`) and printed on `11x17"` paper with a `0.5"` margin all around. Either orientation is ok. You can also make your sketch larger and shrink it to fit, if the proportions are the same.  
 * Five or more exploratory studies, each showing a different idea for the project, exported as PDF (or PNG if the files are too big) and printed.  
@@ -68,4 +68,3 @@ Your project will be graded with the following rubric:
 **30%:** Project shows creativity, attention to visual quality (composition, color, etc)  
 **30%:** Project shows clear use of technical material covered in class  
 **30%:** Project shows investigation and exploration of assignment topic  
-

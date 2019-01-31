@@ -3,9 +3,9 @@
 INTERACTIVITY
 ====
 
-### DUE: THURSDAY, OCTOBER 12
+### DUE: THURSDAY, MARCH 7
 
-In his paper *The Art of Interaction: Interactivity, Performativity, and Computers* (found in the `Readings` folder), David Saltz describes interactive art having three things: 
+In his paper *The Art of Interaction: Interactivity, Performativity, and Computers* (found in the `Readings` folder), David Saltz describes interactive art having three things:
 
 * An input device that translates one's behavior into digital form  
 * That the input data affects the output  
@@ -24,7 +24,7 @@ Think about ways the mouse and keyboard could change:
 * Complex conditions (nest if/else statements depending on interaction)  
 * Constraining movement or changes using `map()`  
 
-Remember! The way your finished code interacts with the viewer and the visual results it creates are what's important: fancy code + boring output = boring art. Same goes for ["feature creep"](https://en.wikipedia.org/wiki/Feature_creep) (aka the potpourri approach). 
+Remember! The way your finished code interacts with the viewer and the visual results it creates are what's important: fancy code + boring output = boring art. Same goes for ["feature creep"](https://en.wikipedia.org/wiki/Feature_creep) (aka the potpourri approach).
 
 In addition to the sketch's interactive functionality, please add a way to export still images (perhaps a key or combination of keys, saved with a timestamp). Save at least two images of your sketch and include in your upload.
 
@@ -90,4 +90,3 @@ Your project will be graded with the following rubric:
 **30%:** Project shows creativity, attention to visual quality (composition, color, etc)  
 **30%:** Project shows clear use of technical material covered in class  
 **30%:** Project shows investigation and exploration of assignment topic  
-
