@@ -3,7 +3,7 @@
 ROBOT DRAWINGS
 ====
 
-### DUE: THURSDAY, SEPT 14
+### DUE: THURSDAY, FEB 7
 
 Today we have amazingly deep programs for making art using computers, like Photoshop and Maya. But the concepts behind these tools is the same as it was in the earliest days of computer graphics: basic shapes, a coordinate system, pixels and colors on a screen. This week, we'll explore these as our toolset and get more familiar thinking about images as numbers and positions.
 
