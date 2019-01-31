@@ -3,7 +3,7 @@
 ALGORITHMIC QUILTS
 ====
 
-### DUE: THURSDAY, FEB 14
+### DUE: THURSDAY, FEBRUARY 14
 
 One of the things computers are very good at is repetitious tasks: just the act of displaying fetching this web page and displaying the text likely required millions of mathematical computations, all happening in just a few seconds. This week, we'll use the ideas of iteration, `push/popMatrix()`, and custom functions to build algorithmically-generated quilts. After researching [traditional quilt patterns](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Readings/Week02_IterationAndLoops/EncyclopediaOfPiecedQuiltPatterns_BarbaraBrackman.pdf) and doing some drawing by hand, we'll move to code where you'll write a sketch that generates a quilt. The goal is not to replicate traditional designs directly, but be inspired by them to create your own. Think about what kinds of designs might be appropriate for a computer-generated quilt.
 
