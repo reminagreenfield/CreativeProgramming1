@@ -3,7 +3,7 @@
 RECURSION EXPERIMENTS
 ====
 
-### DUE: THURSDAY, FEB 14
+### DUE: THURSDAY, FEB 21
 
 >"To understand recursion, one must first understand recursion." – Stephen Hawking
 
