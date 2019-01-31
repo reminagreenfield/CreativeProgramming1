@@ -43,7 +43,7 @@ Install [Processing](http://www.processing.org/download) and test to make sure i
 
 \- \- \-
 
-### [WEEK 01: DRAWING && COORDINATE SYSTEMS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week01_RobotDrawings.md)  
+### [WEEK 01: DRAWING && COORDINATE SYSTEMS](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Assignments/Week01_RobotDrawings.md)  
 **In class**  
 Creating sketches, "Hello World," RGB color, drawing shapes, fill and stroke, saving images, getting help
 
@@ -52,7 +52,7 @@ Drawings of Robots
 
 \- \- \-
 
-### [WEEK 02: ITERATION && LOOPS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week02_AlgorithmicQuilts.md) 
+### [WEEK 02: ITERATION && LOOPS](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Assignments/Week02_AlgorithmicQuilts.md) 
 **In class**  
 For loops, nested loops, driving parameters with loops, push/popMatrix(), creating functions, historical quilt research
 
@@ -61,7 +61,7 @@ Algorithmic Quilts
 
 \- \- \-
  
-### [WEEK 03: RECURSION && FRACTALS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week03_RecursionExperiments.md)  
+### [WEEK 03: RECURSION && FRACTALS](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Assignments/Week03_RecursionExperiments.md)  
 **In class**  
 Creating recursive functions, Pythagoras Tree, Koch Snowflake, the pixel array
 
@@ -70,16 +70,16 @@ Recursion Experiments
 
 \- \- \-
 
-### [WEEK 04: TIME](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week04_Clocks.md)  
+### [WEEK 04: TIME](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Assignments/Week04_Clocks.md)  
 **In class**  
 Conditionals, strings, fonts and text, exporting video files
 
 **Homework**  
-Create a clock, study for [Quiz #1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Quizzes/Quiz1.pdf)  
+Create a clock, study for [Quiz #1](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Quizzes/Quiz1.pdf)  
 
 \- \- \-
 
-### [WEEK 05: INTERACTIVITY 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week05_Interactivity.md)  
+### [WEEK 05: INTERACTIVITY 1](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Assignments/Week05_Interactivity.md)  
 
 **In class**  
 Making things move, mouseX/Y, mousePressed()/Dragged(), background with alpha  
@@ -92,7 +92,7 @@ Interactivity, open source response
 
 \- \- \-
 
-### [WEEK 06: RANDOMNESS 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week06_Randomness.md)  
+### [WEEK 06: RANDOMNESS 1](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Assignments/Week06_Randomness.md)  
 (And ⊨ Open Source)
 
 **In class**  
@@ -103,7 +103,7 @@ Begin Randomness project, install Python
 
 \- \- \-
 
-### [WEEK 07: RANDOMNESS 2](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week06_Randomness.md)  
+### [WEEK 07: RANDOMNESS 2](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Assignments/Week06_Randomness.md)  
 **In class**  
 Psueo-random numbers and Java's Linear Congruential Generator, random seed, Perlin noise and motion, work day, check if Python is working for everyone
 
@@ -112,7 +112,7 @@ Finish Randomness project
 
 \- \- \-
 
-### [WEEK 08: LANGUAGE 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week08_Language.md)  
+### [WEEK 08: LANGUAGE 1](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Assignments/Week08_Language.md)  
 **In class**  
 Creating a Python script, printing “Hello World,” running a script in the Terminal, loops and conditionals, lists, cleaning text, templating strings, saving to file 
 
@@ -138,7 +138,7 @@ Selection from *10 PRINT CHR$* (Montfort, et al)
  
 \- \- \-
 
-### [WEEK 10: ⊨ CRITICAL CODE STUDIES](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_CriticalCodeStudies.md)  
+### [WEEK 10: ⊨ CRITICAL CODE STUDIES](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Assignments/Week10_CriticalCodeStudies.md)  
 **In class**  
 Reading code as text, porting code as critical research
 
@@ -155,7 +155,7 @@ Simulating motion and behavior, object-oriented programming, ArrayLists
 TBA
 
 **Homework**  
-Write [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) proposal, begin work on rough prototype  
+Write [Final Project](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) proposal, begin work on rough prototype  
 
 \- \- \-
 
@@ -168,7 +168,7 @@ More simulation and interactivity
 Finish mini project in class
 
 **Homework**  
-Complete rough prototype for [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md)
+Complete rough prototype for [Final Project](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md)
 
 \- \- \-
 
@@ -178,7 +178,7 @@ Work on Final Projects, get help as needed
 Demo of work in progress
 
 **Homework**  
-Continue working on [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) and documentation
+Continue working on [Final Project](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) and documentation
 
 \- \- \-
 
@@ -188,7 +188,7 @@ Work on Final Projects, get help as needed
 Demo of work in progress
 
 **Homework**  
-Finish [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) and documentation
+Finish [Final Project](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) and documentation
 
 \- \- \-
 
