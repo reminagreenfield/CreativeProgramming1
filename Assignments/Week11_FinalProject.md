@@ -9,9 +9,9 @@ The goal should be a project that you're personally invested in, and that you pr
 
 ### PROJECT CALENDAR  
 **April 11:** Final project assigned, work on project proposals and rough prototypes.  
-**April 18:** Proposals due, continue working on rough prototype.
-**April 25:** Rough prototypes due, demos of work in progress and work day.
-**May 2:** Demos of work in progress and work day, finishing up project.
+**April 18:** Proposals due, continue working on rough prototype.  
+**April 25:** Rough prototypes due, demos of work in progress and work day.  
+**May 2:** Demos of work in progress and work day, finishing up project.  
 **May 9:** Final projects due uploaded to Canvas and updated Wiki page with project documentation due.  
 
 ### FOR THURSDAY, APRIL 18  
