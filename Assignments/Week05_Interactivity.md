@@ -50,7 +50,7 @@ For next week, please also read these articles, found in the `Readings > Open So
 * *Open Source as Open Culture/Culture as Open Source* by Siva Vaidhyanathan in the book ["Social Media Reader"](https://archive.org/stream/TheSocialMediaReader/Mandiberg-theSocialMediaReader-cc-by-sa-nc#page/n33/mode/2up)  
 * *Motives for Writing Free Software* by the Free Software Foundation  
 
-Think about how sharing code fits into your view of ownership and making money, and write up a short response (2-3 paragraphs) and [publish it as an "issue"](https://github.com/jeffThompson/CreativeProgramming1/issues/new). Title your issue `Firstname Lastname: Open Source Response`. Be specific! Why does the idea of open source and free software appeal to you, or why do you find it difficult to get behind?
+Think about how sharing code fits into your view of ownership and making money, and write up a short response (2-3 paragraphs) and post as a comment for this week's Canvas assignment. Be specific! Why does the idea of open source and free software appeal to you, or why do you find it difficult to get behind?
 
 Optional, but you might also want to check these out too. Most all of them are in the same folder:  
 
