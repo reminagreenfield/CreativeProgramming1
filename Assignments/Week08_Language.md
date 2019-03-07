@@ -3,7 +3,7 @@
 LANGUAGE
 ====
 
-### DUE: THURSDAY, MARCH 28
+### DUE: THURSDAY, APRIL 4/11
 
 Bots create and post text and images, interact with people, and do other creative work, often autonomously, repetitively, and on social media platforms like Twitter. The idea of bots is relatively new (even its antecedent *robot* [only dates to the 1920s](http://www.npr.org/2011/04/22/135634400/science-diction-the-origin-of-the-word-robot)) and while there is a lot of discussion about bots (as well as related topics like chat, AI, etc) in tech right now, there are many people that build bots for artistic and critical purposes.
 
@@ -29,7 +29,7 @@ Try adding these elements to your bot:
 * Can you make your bot mimic a certain kind of text, such as the author of a novel or a type of viral headline?  
 * Try looking into [regular expressions](https://www.tutorialspoint.com/python/python_reg_expressions.htm), a difficult-to-get-used-to but very powerful library that lets you manipulate text based on patterns. Lots more info in the [Python docs](https://docs.python.org/2/library/re.html), [this cheatsheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/), and [this online regex builder](https://www.debuggex.com/).  
 
-### FOR THURSDAY, NOVEMBER 2  
+### FOR THURSDAY, APRIL 4  
 For next week, you'll start building the skeleton of your bot:
 
 * Please read Allison Parrish's [*Bots: A Definition and Some Historical Threads*](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce) on the Data & Society blog  
