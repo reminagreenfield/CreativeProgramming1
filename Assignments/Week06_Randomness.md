@@ -3,7 +3,7 @@
 RANDOMNESS
 ====
 
-### DUE: THURSDAY, MARCH 14/21
+### DUE: THURSDAY, MARCH 14/28
 
 > "The computer is a unique device for the arts since it can function soley as an obedient tool with vast capabilities for controlling complicated and involved processes, but then again, full exploitation of its unique talents for controlled randomness and detailed algorithms could result in an entirely new machine – a creative artistic medium." – A. Michael Noll (1970)
 
@@ -27,7 +27,7 @@ For next week, you should create a series of five or more different exploratory 
 * Sketches should be `1152x720 pixels` (that's `16x10" * 72 pixels per inch`) and printed on `11x17"` paper with a `0.5"` margin all around. Either orientation is ok. You can also make your sketch larger and shrink it to fit, if the proportions are the same.  
 * Five or more exploratory studies, each showing a different idea for the project, exported as PDF (or PNG if the files are too big) and printed.  
 
-### FOR THURSDAY, MARCH 21  
+### FOR THURSDAY, MARCH 28  
 For next week, please take the studies you did and the feedback received, and re-work one (or a combination) into a single, final version. This should be printed on a laser printer and brought to class. (Details of size should be the same as above.)
 
 * Name your sketch `LastnameFirstname_Random` – it should be the same dimensions as **Week 1**  
