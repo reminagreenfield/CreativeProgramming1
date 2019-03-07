@@ -112,17 +112,17 @@ Finish Randomness project
 
 \- \- \-
 
+### MARCH 17-24
+Spring break – no class!
+
+\- \- \-
+
 ### [WEEK 08: LANGUAGE 1](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Assignments/Week08_Language.md)  
 **In class**  
 Creating a Python script, printing “Hello World,” running a script in the Terminal, loops and conditionals, lists, cleaning text, templating strings, saving to file 
 
 **Homework**  
 Begin Bot project, create a Twitter account
-
-\- \- \-
-
-### MARCH 17-24
-Spring break – no class!
 
 \- \- \-
 
