@@ -21,13 +21,13 @@ Try adding these elements to your sketch:
 * Could you use a hardware-based random number generation method (dice, coin toss, an algorithm of your own devising) to use as the `randomSeed()` every time you run your program? How could that be wrapped into the conceptual idea of your project?  
 * Try using `randomSeed()` and the mouse coordinates to make an interactive generator.
 
-### FOR THURSDAY, OCTOBER 19  
+### FOR THURSDAY, MARCH 14  
 For next week, you should create a series of five or more different exploratory code studies thinking about randomness. These should show a range of ideas, and explore potential directions for the project. These should be the same size/format as the final sketch (`1152x720 pixels`), exported as PDFs, and printed on a laser printer (either in the Lab or at Kinkos, etc). Bring your prints to class next week – remember that presentation counts, so keep your prints crisp and clean.
 
 * Sketches should be `1152x720 pixels` (that's `16x10" * 72 pixels per inch`) and printed on `11x17"` paper with a `0.5"` margin all around. Either orientation is ok. You can also make your sketch larger and shrink it to fit, if the proportions are the same.  
 * Five or more exploratory studies, each showing a different idea for the project, exported as PDF (or PNG if the files are too big) and printed.  
 
-### FOR THURSDAY, OCTOBER 26  
+### FOR THURSDAY, MARCH 21  
 For next week, please take the studies you did and the feedback received, and re-work one (or a combination) into a single, final version. This should be printed on a laser printer and brought to class. (Details of size should be the same as above.)
 
 * Name your sketch `LastnameFirstname_Random` – it should be the same dimensions as **Week 1**  
@@ -51,7 +51,7 @@ For next week, please take the studies you did and the feedback received, and re
 * The epic terrain and history-generating game [Dwarf Fortress](http://www.bay12games.com/dwarves)  
 * [*Z1FFER*](http://www.creativeapplications.net/arduino-2/z1ffer/), a hardware random number generating "shield" for the Arduino  
 * [Torrit Grey](https://www.gamblincolors.com/torrit-grey) from Gamblin Paints  
-* And [*White Noise Boutique*](http://jeffreythompson.org/white-noise-boutique.php) by Jeff Thompson (me 😊)  
+* And [*White Noise Boutique*](http://jeffreythompson.org/white-noise-boutique.php) by Jeff Thompson
 
 ### RESOURCES  
 * Greate, practical [examples of using randomness in code](https://kynd.github.io/p5sketches/random.html) from kynd  
