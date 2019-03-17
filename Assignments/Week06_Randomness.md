@@ -32,7 +32,8 @@ For next week, please take the studies you did and the feedback received, and re
 
 * Name your sketch `LastnameFirstname_Random` – it should be the same dimensions as **Week 1**  
 * Run lots of times until you have a version you're happy with. Print at 11x17" and bring to class.  
-* Zip your code, studies, and final PDF and upload to Canvas.  
+* Zip your code, studies, and final PDF and upload to Canvas. 
+* Along with your code, please submit a short comment in Canvas, explaining your composition using vocabulary from the [Elements and Principles of Art](https://github.com/reminagreenfield/CreativeProgramming1/blob/master/Resources/ElementsPrinciplesOfArt.pdf). 
 * **Be sure to [check if Python is installed](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Resources/CheckingPython.md) and working for you, or plan to use the Lab computers for our next project.**  
 
 ### PROJECTS SHOWN  
