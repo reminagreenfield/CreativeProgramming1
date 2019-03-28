@@ -47,7 +47,7 @@ A template defines the structure of your bot's tweets. It's basically like a [Ma
 * `<do>` `<a/an>` `<media>` `<verb>` `<approach>` `<topic>`, due `<date>` (which is one that my [@artassignbot](https://twitter.com/artassignbot) uses, as in *Make a drawing exploring your relationship to booms, due Thursday, October 26*)  
 * YOU ARE MY `<adjective>` `<noun>`. MY `<adjective>` `<noun>` `<adverb>` `<verbs>` YOUR `<adjective>` `<noun>` (the template used in [Christopher Strachey's 1953 love letter generator](https://www.newyorker.com/tech/elements/christopher-stracheys-nineteen-fifties-love-machine))
 
-### FOR THURSDAY, NOVEMBER 9  
+### FOR THURSDAY, APRIL 11  
 For next week, your assignment is to finish your bot! [Get your OAuth settings from Twitter](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Code/Week08_Language/TwitterDevAccountSetup.md) and run some test posts. Once all done, post a bunch of tweets and assemble your documentation:
 
 * Create a folder called `LastnameFirstname_Bot`, in it put...  
