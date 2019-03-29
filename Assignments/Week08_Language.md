@@ -33,7 +33,8 @@ Try adding these elements to your bot:
 For next week, you'll start building the skeleton of your bot:
 
 * Please read Allison Parrish's [*Bots: A Definition and Some Historical Threads*](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce) on the Data & Society blog  
-* Continue developing your bot's template, like we did in class – come up with at least two templates that your bot can randomly select from (see the example templates below)  
+* Developing a template for your bot – come up with at least two templates that your bot can randomly select from (see the example templates below)
+  * Try modifying the BasicBot.py code and running it with your own template
 * Select a corpus (or multiple *corpora*) for your bot to work with – this might be some of the pre-built word lists provided, one you find online (see the `Corpora` section below for suggestions), or some of your own making  
 * Come up with a name for your bot! Something descriptive, catchy, and (hopefully) available as a Twitter handle  
 * Sign up for a Twitter account (it can be private) for your bot – if you already have an account, you can use it (though we'll be posting lots of random stuff) or create a new one with a fresh email address (Gmail is great for this)  
