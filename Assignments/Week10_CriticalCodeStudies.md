@@ -49,7 +49,7 @@ What do these investigations tell us about the original? Do they suggest other v
 ### FOR THURSDAY, APRIL 18
 For next week, expand on our exploration of the `10 PRINT CHR$` code in Processing. Think about the questions and prompts above, and try to find new insights about this code, and the language of Processing, by further manipulating the example. The output might be a series of sketches saved as images, an interactive piece, video or animation, printed text (instead of images), a performance, sound, etc etc. Consider the output format appropriate to your project: should it be printed? If so, at what size and on what paper? If it's interactive, what's the right context to experience it?
 
-**No need to turn in anything to Canvas, but come prepared to show your project and talk about it's genesis and how it responds to the original code.**
+**Please submit files via Canvas and come prepared to show your project, talk about it's genesis and how it responds to the original code.**
 
 You should also start to think about what you'd like to do for your final project – a written proposal will be due in two weeks.
 
