@@ -192,6 +192,6 @@ Finish [Final Project](https://github.com/reminagreenfield/CreativeProgramming1/
 
 \- \- \-
 
-### EXAM PERIOD: THURSDAY, MAY 9 
+### EXAM PERIOD: THURSDAY, MAY 16 
 Final project files and documentation due online – **in class crit and goodbye** (bye!)
 
