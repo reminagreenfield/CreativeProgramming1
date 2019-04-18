@@ -20,6 +20,13 @@ Please write a written proposal outlining the project you want to make. This sho
 **TROUBLE COMING UP WITH IDEAS?**  
 As a jumping off point, think about things you've enjoyed doing this semester, and things that you're generally obsessed with. If you love binge-watching crappy 80s TV, maybe a project that manipulates or analyzes millions of frames of video from those shows. If you are super into language, maybe a poem-generating sketch that outputs printable book PDFs with auto-generated illustrations.
 
+Some past projects, galleries, coding examples to look at:
+
+* [Past Student Projects](https://github.com/jeffThompson/CreativeProgramming1/wiki)
+* [Processing Online Exhibition](https://processing.org/exhibition/)
+* [Open Processing](https://www.openprocessing.org/)
+* [Daniel Shiffman Coding Challenges](https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
+
 I'll give you written feedback on your proposals. Rough prototype due next class.
 
 ### FOR THURSDAY, MAY 2   
