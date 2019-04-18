@@ -1,7 +1,7 @@
 FINAL PROJECT
 ====
 
-### DUE: THURSDAY, MAY 9
+### DUE: THURSDAY, MAY 16
 
 Your final project for the semester is to make something, anything, using at least one of the tools covered in class this semester. The choice of what you'll make and what format it's output will be (screen, interactive, printed, projected) are up to you. Whatever you decide, it should be an ambitious project that is worthy of four weeks' of work, and that pushes your artistic, creative, and technical skills. Feel free to involve non-computational media (drawing, photography, illustration, music) if you want alongside or with your code.
 
