@@ -11,7 +11,7 @@ The goal should be a project that you're personally invested in, and that you pr
 **April 18:** Final project assigned, work on project proposals and rough prototypes.  
 **April 25:** Proposals due, continue working on rough prototype.  
 **May 2:** Rough prototypes due, demos of work in progress and work day.  
-**May 9:** Demos of work in progress and work day, finishing up project.  
+**May 9:** Office hours. Optional work day. 
 **May 16:** Final projects due uploaded to Canvas and updated Wiki page with project documentation due.  
 
 ### FOR THURSDAY, APRIL 25  
@@ -33,9 +33,7 @@ I'll give you written feedback on your proposals. Rough prototype due next class
 You should have already started working on your final project, and this week you should bring a rough prototype. It doesn't need to all be working, but should be far enough along for us to give feedback without a ton of explanation: "show, not tell." We'll do quick feedback sessions and have some work time.
 
 ### FOR THURSDAY, MAY 9
-This week you should bring in a more sophisticated prototype / work-in-progress. Once again, we'll do quick feedback sessions and have some work time. Note this is our last week to talk, so bring code questions and things you need help with.
-
-I'll hold office hours and other times you can drop in for technical help before the project is due. Try to take advantage of this and get work done early, so you can spot technical problems.
+I'll hold office hours this week and be availble during our usual class time so you can drop in for technical help before the project is due. Try to take advantage of this and get work done early, so you can spot technical problems.
 
 ### FOR THURSDAY, MAY 16   
 **Final presentation and documentation due** There are a few things you need to do to turn these in, so please read this carefully.
